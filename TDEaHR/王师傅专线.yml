@@ -48,6 +48,13 @@ proxies:
     cipher: aes-256-gcm
     password: v50-Crazy-Thursday
     udp: false
+  - name: 不保证稳定性 可当备用
+    type: ss
+    server: v50-Crazy-Thursday
+    port: 5050
+    cipher: aes-256-gcm
+    password: v50-Crazy-Thursday
+    udp: false
   - name: 无法用于翻墙
     type: ss
     server: v50-Crazy-Thursday
